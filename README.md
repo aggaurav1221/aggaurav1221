@@ -135,7 +135,7 @@ Tech: Java 17 · Spring Boot 3 · HAPI FHIR · MongoDB · Kafka · Docker · K8s
 ---
 
 ### ⚡ 2. Real-Time Event Pipeline — Kafka + Spring Boot
-> **[View Project →]([https://github.com/aggaurav1221/fhir-patient-api](https://github.com/aggaurav1221/ecommerce-order-pipeline))**
+> **[View Project →](https://github.com/aggaurav1221/ecommerce-order-pipeline)**
 
 **What it demonstrates:**
 - How major e-commerce platforms (Flipkart, Amazon, Meesho) process orders in real-time
