@@ -119,7 +119,7 @@ I believe great engineers understand business impact which is why I'm pursuing a
 ## 🚀 Featured Projects
 
 ### 🩺 1. FHIR Patient Management API
-> **[Coming Soon]** A production-grade FHIR R4 REST API built with Spring Boot & HAPI FHIR
+> **[View Project →](https://github.com/aggaurav1221/fhir-patient-api)**
 
 **What it demonstrates:**
 - Complete FHIR R4 resource CRUD — Patient, Observation, Encounter, Medication
