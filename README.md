@@ -122,13 +122,11 @@ I believe great engineers understand business impact which is why I'm pursuing a
 > **[View Project →](https://github.com/aggaurav1221/fhir-patient-api)**
 
 **What it demonstrates:**
-- Complete FHIR R4 resource CRUD — Patient, Observation, Encounter, Medication
-- HL7 v2 → FHIR R4 conversion pipeline using Apache Camel
+- Build FHIR-compliant REST APIs using HAPI FHIR and Spring Boot
+- Convert legacy HL7 messages to modern FHIR resources
+- Stream real-time clinical events via Apache Kafka
 - SMART on FHIR OAuth 2.0 authorisation
-- MongoDB as FHIR resource store with optimised compound indexes
-- Kafka event publishing on FHIR resource mutations
 - Full Docker Compose + Kubernetes manifests
-- 80%+ test coverage with JUnit 5 + HAPI FHIR validator
 
 ```
 Tech: Java 17 · Spring Boot 3 · HAPI FHIR · MongoDB · Kafka · Docker · K8s
@@ -137,14 +135,14 @@ Tech: Java 17 · Spring Boot 3 · HAPI FHIR · MongoDB · Kafka · Docker · K8s
 ---
 
 ### ⚡ 2. Real-Time Event Pipeline — Kafka + Spring Boot
-> **[Coming Soon]** End-to-end event-driven data pipeline
+> **[View Project →]([https://github.com/aggaurav1221/fhir-patient-api](https://github.com/aggaurav1221/ecommerce-order-pipeline))**
 
 **What it demonstrates:**
+- How major e-commerce platforms (Flipkart, Amazon, Meesho) process orders in real-time
 - Kafka Producer (custom partitioner, idempotent config, Schema Registry)
-- Spring Boot Kafka Consumer with dead-letter queue and retry
+- Non-blocking retry with DLQ so one bad message never stalls the pipeline
+- Server-Sent Events pushing live order data to a browser dashboard
 - MongoDB time-series storage for event data
-- REST API layer with Spring Boot + Actuator metrics
-- Docker Compose setup for local dev
 
 ```
 Tech: Java 17 · Apache Kafka · Spring Boot · MongoDB · Docker
