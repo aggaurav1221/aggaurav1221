@@ -23,22 +23,24 @@
 
 ```yaml
 Name        : Gaurav Aggarwal
-Title       : Senior Java Engineer | Healthcare IT Specialist
+Title       : Senior Java Engineer | FHIR Healthcare Interoperability | Microservices | Spring Boot | Kafka | Deloitte Consultant | IIMK MBA
 Location    : Delhi NCR, India
-Experience  : 9+ Years in Enterprise Java & Distributed Systems
+Experience  : 10+ Years in Enterprise Java & Distributed Systems
 Current     : Consultant @ Deloitte (FHIR Healthcare Interoperability)
-Education   : MBA (Pursuing) @ IIM | PG Diploma @ CDAC | B.Tech ECE
-Speciality  : HL7 FHIR R4 · Microservices · Apache Kafka · Spring Boot
+Companies   : Deloitte (Big 4) + Accenture + Amdocs (Global product company).
+Domain      : Healthcare IT (FHIR/HL7) + Telecom + Digital Content.
+Education   : MBA (Pursuing) @ IIM Kozhikode | PG Diploma @ CDAC | B.Tech ECE
+Speciality  : Java, HL7 FHIR R4 · Microservices · Apache Kafka · Spring Boot
 Open To     : Senior Engineer · Tech Lead · Solutions Architect Roles
 ```
 
-I am a Senior Java Engineer specialising in **Healthcare Interoperability (FHIR/HL7)** with 9+ years of experience architecting and delivering enterprise-grade distributed systems.
+I am a Senior Java Engineer specialising in **Healthcare Interoperability (FHIR/HL7)** with 10+ years of experience architecting and delivering enterprise-grade distributed systems.
 
 At **Deloitte**, I lead a FHIR App Solutions team delivering HL7 FHIR R4 APIs for **Fresenius Medical Care (USA)** — one of the world's largest kidney care providers. Previously at **Accenture** (Bell Canada digital migration) and **Amdocs** (telecom billing systems handling 500M+ CDR records).
 
-I believe great engineers understand business impact — which is why I'm pursuing an **MBA at IIM** alongside my engineering career.
+I believe great engineers understand business impact which is why I'm pursuing an **MBA at IIMK** alongside my engineering career.
 
-> *"I don't just write code — I architect systems that real patients and clinicians depend on."*
+> *"I don't just write code, I architect systems that real patients and clinicians depend on."*
 
 ---
 
@@ -59,8 +61,6 @@ I believe great engineers understand business impact — which is why I'm pursui
 - ✅ **FHIR R4** REST API design, implementation & validation (HAPI FHIR)
 - ✅ **HL7 v2 → FHIR** conversion pipelines via Apache Camel
 - ✅ **SMART on FHIR** OAuth2 authorisation flows
-- ✅ **US Core Profile** compliance for CMS interoperability mandates
-- ✅ **ABDM** (Ayushman Bharat Digital Mission) — India's national FHIR backbone awareness
 - ✅ **MongoDB** as FHIR resource store with optimised indexing strategies
 - ✅ **OpenShift** containerised FHIR microservices with 99.9%+ uptime delivery
 
