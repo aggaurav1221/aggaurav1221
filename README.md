@@ -36,7 +36,7 @@ Open To     : Senior Engineer · Tech Lead · Solutions Architect Roles
 
 I am a Senior Java Engineer specialising in **Healthcare Interoperability (FHIR/HL7)** with 10+ years of experience architecting and delivering enterprise-grade distributed systems.
 
-At **Deloitte**, I lead a FHIR App Solutions team delivering HL7 FHIR R4 APIs for **Fresenius Medical Care (USA)** — one of the world's largest kidney care providers. Previously at **Accenture** (Bell Canada digital migration) and **Amdocs** (telecom billing systems handling 500M+ CDR records).
+At **Deloitte**, I lead a FHIR App Solutions team delivering HL7 FHIR R4 APIs for **Fresenius Medical Care (USA)** one of the world's largest kidney care providers. Previously at **Accenture** (Bell Canada digital migration) and **Amdocs** (telecom billing systems handling 500M+ CDR records).
 
 I believe great engineers understand business impact which is why I'm pursuing an **MBA at IIMK** alongside my engineering career.
 
@@ -119,7 +119,7 @@ I believe great engineers understand business impact which is why I'm pursuing a
 ## 🚀 Featured Projects
 
 ### 🩺 1. FHIR Patient Management API
-> **[Coming Soon]** — A production-grade FHIR R4 REST API built with Spring Boot & HAPI FHIR
+> **[Coming Soon]** A production-grade FHIR R4 REST API built with Spring Boot & HAPI FHIR
 
 **What it demonstrates:**
 - Complete FHIR R4 resource CRUD — Patient, Observation, Encounter, Medication
@@ -137,7 +137,7 @@ Tech: Java 17 · Spring Boot 3 · HAPI FHIR · MongoDB · Kafka · Docker · K8s
 ---
 
 ### ⚡ 2. Real-Time Event Pipeline — Kafka + Spring Boot
-> **[Coming Soon]** — End-to-end event-driven data pipeline
+> **[Coming Soon]** End-to-end event-driven data pipeline
 
 **What it demonstrates:**
 - Kafka Producer (custom partitioner, idempotent config, Schema Registry)
@@ -153,7 +153,7 @@ Tech: Java 17 · Apache Kafka · Spring Boot · MongoDB · Docker
 ---
 
 ### 🏗️ 3. Microservices Reference Architecture
-> **[Coming Soon]** — A battle-tested microservices blueprint
+> **[Coming Soon]** A battle-tested microservices blueprint
 
 **What it demonstrates:**
 - 4 Spring Boot microservices with clear bounded contexts
