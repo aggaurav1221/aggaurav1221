@@ -23,7 +23,7 @@
 
 ```yaml
 Name        : Gaurav Aggarwal
-Title       : Senior Java Engineer | FHIR Healthcare Interoperability | Microservices | Spring Boot | Kafka | Deloitte Consultant | IIMK MBA
+Title       : Senior Java Engineer | FHIR Healthcare Interoperability | Microservices | Spring Boot | Kafka | Deloitte Consultant | IIM Kozhikode MBA
 Location    : Delhi NCR, India
 Experience  : 10+ Years in Enterprise Java & Distributed Systems
 Current     : Consultant @ Deloitte (FHIR Healthcare Interoperability)
