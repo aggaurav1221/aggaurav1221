@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A7A7A&center=true&vCenter=true&width=700&lines=9%2B+Years+Enterprise+Java+Engineering;FHIR+%2F+HL7+Healthcare+Interoperability+Expert;Microservices+%7C+Spring+Boot+%7C+Apache+Kafka;Deloitte+Consultant+%7C+IIM+MBA+(Pursuing);Building+Systems+That+Improve+Patient+Outcomes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A7A7A&center=true&vCenter=true&width=700&lines=10%2B+Years+Enterprise+Java+Engineering;FHIR+%2F+HL7+Healthcare+Interoperability+Expert;Microservices+%7C+Spring+Boot+%7C+Apache+Kafka;Deloitte+Consultant+%7C+IIMK+MBA+(Pursuing);Building+Systems+That+Improve+Patient+Outcomes" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 ```yaml
 Name        : Gaurav Aggarwal
-Title       : Senior Java Engineer | FHIR Healthcare Interoperability | Microservices | Spring Boot | Kafka | Deloitte Consultant | IIM Kozhikode MBA
+Title       : Senior Java Engineer | FHIR Healthcare Interoperability | Microservices | Spring Boot | Kafka | Deloitte Consultant | IIMK MBA
 Location    : Delhi NCR, India
 Experience  : 10+ Years in Enterprise Java & Distributed Systems
 Current     : Consultant @ Deloitte (FHIR Healthcare Interoperability)
