@@ -151,15 +151,14 @@ Tech: Java 17 · Apache Kafka · Spring Boot · MongoDB · Docker
 ---
 
 ### 🏗️ 3. Microservices Reference Architecture
-> **[Coming Soon]** A battle-tested microservices blueprint
+> **[View Project →](https://github.com/aggaurav1221/banking-microservices)**
 
 **What it demonstrates:**
-- 4 Spring Boot microservices with clear bounded contexts
+- Spring Cloud Config Server centralises configuration across all services
 - Spring Cloud Gateway (API Gateway) + Eureka (Service Discovery)
-- Distributed tracing with Zipkin + Spring Cloud Sleuth
-- Centralised config with Spring Cloud Config Server
+- Spring Cloud Gateway routes requests, applies rate limiting and circuit breakers
 - Circuit breaker with Resilience4j
-- Full Kubernetes manifests + Helm charts
+- FPrometheus + Grafana provides production-grade observability
 
 ```
 Tech: Java 17 · Spring Boot · Spring Cloud · Docker · Kubernetes · Prometheus
